@@ -1,0 +1,11 @@
+Horse-Racing Objectives.
+-move //finished
+-maps //finished
+-characters // finished
+-pvp // on going
+
+future Notes.
+-Add random spawn Items-box
+-Fix horse move---> smoother than now
+-Stop slide map end
+-Unlock characters system
