@@ -7,5 +7,6 @@ Horse-Racing Objectives.
 future Notes.
 -Add random spawn Items-box
 -Fix horse move---> smoother than now
--Stop slide map end
--Unlock characters system
+-Stop slide map end // keep old plan better than this 
+-Unlock characters system // Maybe Change to choose character before play
+-Win Point
