@@ -10,3 +10,4 @@ future Notes.
 -Stop slide map end // keep old plan better than this 
 -Unlock characters system // Maybe Change to choose character before play
 -Win Point
+-Random obstacle
